@@ -1,11 +1,3 @@
-/**
-	FizzBuzz
-	3がつく数字はFizz
-	5がつく数字はBuzz
-	どちらでもないときは数字
-	を表示させる
-**/
-
 #include <stdio.h>
 
 int FizzBuzz(int x);//xのFizz,Buzz判定&表示
