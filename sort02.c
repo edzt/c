@@ -1,6 +1,3 @@
-/*
-ソートする②
-*/
 #include <stdio.h>
 #define ARRLEN 5
 
