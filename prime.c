@@ -1,6 +1,3 @@
-/*
-素数を表示させる
-*/
 #include <stdio.h>
 #define MAX 30
 
