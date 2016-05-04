@@ -1,7 +1,3 @@
-/*
-最大値と最小値を表示させる
-*/
-
 #include <stdio.h>
 #define ARRLEN 5
 
